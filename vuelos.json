@@ -1,0 +1,6002 @@
+[
+  {
+    "numero_vuelo": 469,
+    "origen": "IPC",
+    "destino": "SCL",
+    "hora_salida": "16:38",
+    "hora_llegada": "18:24",
+    "fecha": "28/12/24",
+    "avion": {
+      "modelo": "Airbus A321",
+      "numero_de_serie": 44108,
+      "stock_de_pasajeros": 65
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 41,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 53,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 65,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 19,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 6,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 22,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 174,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 110,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 808,
+    "origen": "CJC",
+    "destino": "CPO",
+    "hora_salida": "20:13",
+    "hora_llegada": "23:18",
+    "fecha": "27/12/23",
+    "avion": {
+      "modelo": "Airbus A318",
+      "numero_de_serie": 14529,
+      "stock_de_pasajeros": 60
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 39,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 164,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 60,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 48,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 28,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 176,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 157,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 268,
+    "origen": "ZCO",
+    "destino": "ARI",
+    "hora_salida": "23:23",
+    "hora_llegada": "07:43",
+    "fecha": "24/09/24",
+    "avion": {
+      "modelo": "Airbus A380",
+      "numero_de_serie": 74550,
+      "stock_de_pasajeros": 56
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 44,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 5,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 56,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 28,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 8,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 45,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 4,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 38,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 145,
+    "origen": "ZAL",
+    "destino": "BBA",
+    "hora_salida": "23:06",
+    "hora_llegada": "00:00",
+    "fecha": "23/12/24",
+    "avion": {
+      "modelo": "Airbus A310",
+      "numero_de_serie": 34561,
+      "stock_de_pasajeros": 72
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 59,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 66,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 72,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 13,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 10,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 37,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 140,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 132,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 603,
+    "origen": "SCL",
+    "destino": "CPO",
+    "hora_salida": "15:27",
+    "hora_llegada": "17:57",
+    "fecha": "22/07/23",
+    "avion": {
+      "modelo": "Airbus A380",
+      "numero_de_serie": 91277,
+      "stock_de_pasajeros": 60
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 88,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 25,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 60,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 59,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 5,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 1,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 159,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 194,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 451,
+    "origen": "PMC",
+    "destino": "CPO",
+    "hora_salida": "01:59",
+    "hora_llegada": "02:53",
+    "fecha": "25/05/24",
+    "avion": {
+      "modelo": "Airbus A300",
+      "numero_de_serie": 15635,
+      "stock_de_pasajeros": 120
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 99,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 40,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 120,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 14,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 6,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 250,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 164,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 141,
+    "origen": "CJC",
+    "destino": "ZAL",
+    "hora_salida": "20:28",
+    "hora_llegada": "22:51",
+    "fecha": "18/04/24",
+    "avion": {
+      "modelo": "Airbus A350",
+      "numero_de_serie": 82812,
+      "stock_de_pasajeros": 108
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 70,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 277,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 108,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 54,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 0,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 4,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 47,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 77,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 607,
+    "origen": "IPC",
+    "destino": "CJC",
+    "hora_salida": "00:39",
+    "hora_llegada": "02:35",
+    "fecha": "27/04/23",
+    "avion": {
+      "modelo": "Airbus A300",
+      "numero_de_serie": 12878,
+      "stock_de_pasajeros": 93
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 156,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 259,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 93,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 9,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 10,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 40,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 147,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 71,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 895,
+    "origen": "IQQ",
+    "destino": "PMC",
+    "hora_salida": "03:09",
+    "hora_llegada": "05:39",
+    "fecha": "30/05/23",
+    "avion": {
+      "modelo": "Airbus A300",
+      "numero_de_serie": 46558,
+      "stock_de_pasajeros": 100
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 7,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 203,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 100,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 49,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 7,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 5,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 262,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 4,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 293,
+    "origen": "ARI",
+    "destino": "PMC",
+    "hora_salida": "11:20",
+    "hora_llegada": "15:02",
+    "fecha": "28/02/23",
+    "avion": {
+      "modelo": "Airbus A321",
+      "numero_de_serie": 18964,
+      "stock_de_pasajeros": 111
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 64,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 27,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 111,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 96,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 9,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 121,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 85,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 208,
+    "origen": "IQQ",
+    "destino": "IPC",
+    "hora_salida": "08:01",
+    "hora_llegada": "12:01",
+    "fecha": "05/02/23",
+    "avion": {
+      "modelo": "Airbus A318",
+      "numero_de_serie": 53725,
+      "stock_de_pasajeros": 79
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 88,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 121,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 79,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 22,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 9,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 25,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 216,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 116,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 442,
+    "origen": "IQQ",
+    "destino": "CPO",
+    "hora_salida": "15:59",
+    "hora_llegada": "17:35",
+    "fecha": "24/05/24",
+    "avion": {
+      "modelo": "Airbus A350",
+      "numero_de_serie": 28064,
+      "stock_de_pasajeros": 118
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 21,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 252,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 118,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 49,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 7,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 33,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 162,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 199,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 382,
+    "origen": "CCP",
+    "destino": "ZAL",
+    "hora_salida": "13:07",
+    "hora_llegada": "14:32",
+    "fecha": "17/10/23",
+    "avion": {
+      "modelo": "Airbus A350",
+      "numero_de_serie": 88009,
+      "stock_de_pasajeros": 67
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 55,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 58,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 67,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 8,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 0,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 24,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 45,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 148,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 612,
+    "origen": "CJC",
+    "destino": "SCL",
+    "hora_salida": "14:08",
+    "hora_llegada": "15:55",
+    "fecha": "18/04/23",
+    "avion": {
+      "modelo": "Airbus A319",
+      "numero_de_serie": 86858,
+      "stock_de_pasajeros": 65
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 76,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 42,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 65,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 42,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 4,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 41,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 187,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 166,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 758,
+    "origen": "ARI",
+    "destino": "CJC",
+    "hora_salida": "14:07",
+    "hora_llegada": "17:23",
+    "fecha": "03/03/23",
+    "avion": {
+      "modelo": "Airbus A380",
+      "numero_de_serie": 25101,
+      "stock_de_pasajeros": 87
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 112,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 250,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 87,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 43,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 12,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 31,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 52,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 9,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 175,
+    "origen": "CPO",
+    "destino": "LSC",
+    "hora_salida": "09:09",
+    "hora_llegada": "10:52",
+    "fecha": "14/04/24",
+    "avion": {
+      "modelo": "Airbus A310",
+      "numero_de_serie": 19383,
+      "stock_de_pasajeros": 125
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 41,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 198,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 125,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 112,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 6,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 28,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 89,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 170,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 825,
+    "origen": "SCL",
+    "destino": "ZAL",
+    "hora_salida": "08:03",
+    "hora_llegada": "10:35",
+    "fecha": "06/11/23",
+    "avion": {
+      "modelo": "Airbus A300",
+      "numero_de_serie": 20064,
+      "stock_de_pasajeros": 97
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 58,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 274,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 97,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 96,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 8,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 18,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 188,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 138,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 810,
+    "origen": "PMC",
+    "destino": "CCP",
+    "hora_salida": "09:15",
+    "hora_llegada": "12:55",
+    "fecha": "27/07/23",
+    "avion": {
+      "modelo": "Airbus A318",
+      "numero_de_serie": 69315,
+      "stock_de_pasajeros": 120
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 1,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 4,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 120,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 24,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 5,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 36,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 321,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 182,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 172,
+    "origen": "LSC",
+    "destino": "CJC",
+    "hora_salida": "03:21",
+    "hora_llegada": "05:37",
+    "fecha": "11/01/24",
+    "avion": {
+      "modelo": "Airbus A330",
+      "numero_de_serie": 87978,
+      "stock_de_pasajeros": 99
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 6,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 35,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 99,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 52,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 7,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 14,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 287,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 144,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 412,
+    "origen": "SCL",
+    "destino": "LSC",
+    "hora_salida": "09:17",
+    "hora_llegada": "11:46",
+    "fecha": "30/12/24",
+    "avion": {
+      "modelo": "Airbus A350",
+      "numero_de_serie": 31886,
+      "stock_de_pasajeros": 51
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 51,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 113,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 51,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 48,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 10,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 7,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 66,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 88,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 936,
+    "origen": "ZOS",
+    "destino": "PMC",
+    "hora_salida": "17:26",
+    "hora_llegada": "21:32",
+    "fecha": "23/06/23",
+    "avion": {
+      "modelo": "Airbus A321",
+      "numero_de_serie": 63377,
+      "stock_de_pasajeros": 97
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 187,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 209,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 97,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 58,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 9,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 17,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 90,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 131,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 629,
+    "origen": "ZOS",
+    "destino": "CJC",
+    "hora_salida": "21:13",
+    "hora_llegada": "00:25",
+    "fecha": "27/08/23",
+    "avion": {
+      "modelo": "Airbus A321",
+      "numero_de_serie": 94539,
+      "stock_de_pasajeros": 108
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 202,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 73,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 108,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 98,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 2,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 2,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 134,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 54,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 792,
+    "origen": "ARI",
+    "destino": "SCL",
+    "hora_salida": "14:06",
+    "hora_llegada": "17:38",
+    "fecha": "26/04/24",
+    "avion": {
+      "modelo": "Airbus A320",
+      "numero_de_serie": 17638,
+      "stock_de_pasajeros": 99
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 157,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 286,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 99,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 13,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 9,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 12,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 155,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 200,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 375,
+    "origen": "IPC",
+    "destino": "BBA",
+    "hora_salida": "11:06",
+    "hora_llegada": "13:11",
+    "fecha": "24/02/24",
+    "avion": {
+      "modelo": "Airbus A340",
+      "numero_de_serie": 53702,
+      "stock_de_pasajeros": 124
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 109,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 214,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 124,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 24,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 3,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 4,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 145,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 68,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 613,
+    "origen": "BBA",
+    "destino": "SCL",
+    "hora_salida": "09:37",
+    "hora_llegada": "13:50",
+    "fecha": "04/02/24",
+    "avion": {
+      "modelo": "Airbus A340",
+      "numero_de_serie": 90896,
+      "stock_de_pasajeros": 115
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 120,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 80,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 115,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 110,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 4,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 41,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 63,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 81,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 196,
+    "origen": "PMC",
+    "destino": "SCL",
+    "hora_salida": "15:07",
+    "hora_llegada": "17:48",
+    "fecha": "18/06/23",
+    "avion": {
+      "modelo": "Airbus A310",
+      "numero_de_serie": 19648,
+      "stock_de_pasajeros": 62
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 31,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 185,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 62,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 46,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 12,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 18,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 18,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 179,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 873,
+    "origen": "SCL",
+    "destino": "CPO",
+    "hora_salida": "09:49",
+    "hora_llegada": "10:46",
+    "fecha": "14/01/24",
+    "avion": {
+      "modelo": "Airbus A300",
+      "numero_de_serie": 77622,
+      "stock_de_pasajeros": 80
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 142,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 126,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 80,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 25,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 7,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 16,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 61,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 195,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 882,
+    "origen": "CPO",
+    "destino": "BBA",
+    "hora_salida": "18:07",
+    "hora_llegada": "22:47",
+    "fecha": "10/09/24",
+    "avion": {
+      "modelo": "Airbus A220",
+      "numero_de_serie": 18661,
+      "stock_de_pasajeros": 89
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 70,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 91,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 89,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 8,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 35,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 103,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 118,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 350,
+    "origen": "ARI",
+    "destino": "PUQ",
+    "hora_salida": "19:32",
+    "hora_llegada": "21:58",
+    "fecha": "16/06/23",
+    "avion": {
+      "modelo": "Airbus A330",
+      "numero_de_serie": 12368,
+      "stock_de_pasajeros": 112
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 184,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 296,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 112,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 24,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 9,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 22,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 178,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 91,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 888,
+    "origen": "PUQ",
+    "destino": "SCL",
+    "hora_salida": "20:53",
+    "hora_llegada": "22:53",
+    "fecha": "08/12/23",
+    "avion": {
+      "modelo": "Airbus A319",
+      "numero_de_serie": 30155,
+      "stock_de_pasajeros": 57
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 35,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 97,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 57,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 24,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 7,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 37,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 162,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 175,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 612,
+    "origen": "CCP",
+    "destino": "CJC",
+    "hora_salida": "09:20",
+    "hora_llegada": "11:54",
+    "fecha": "17/02/23",
+    "avion": {
+      "modelo": "Airbus A320",
+      "numero_de_serie": 25409,
+      "stock_de_pasajeros": 70
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 78,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 111,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 70,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 61,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 9,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 44,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 7,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 22,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 578,
+    "origen": "IQQ",
+    "destino": "ZOS",
+    "hora_salida": "07:37",
+    "hora_llegada": "08:01",
+    "fecha": "26/09/24",
+    "avion": {
+      "modelo": "Airbus A310",
+      "numero_de_serie": 34299,
+      "stock_de_pasajeros": 60
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 106,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 127,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 60,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 49,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 4,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 45,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 173,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 355,
+    "origen": "ZOS",
+    "destino": "ZCO",
+    "hora_salida": "12:20",
+    "hora_llegada": "14:09",
+    "fecha": "06/02/23",
+    "avion": {
+      "modelo": "Airbus A319",
+      "numero_de_serie": 14885,
+      "stock_de_pasajeros": 53
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 25,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 138,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 53,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 25,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 12,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 20,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 117,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 125,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 617,
+    "origen": "SCL",
+    "destino": "CPO",
+    "hora_salida": "18:01",
+    "hora_llegada": "19:05",
+    "fecha": "23/02/24",
+    "avion": {
+      "modelo": "Airbus A320",
+      "numero_de_serie": 35250,
+      "stock_de_pasajeros": 79
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 62,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 130,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 79,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 13,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 38,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 132,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 199,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 257,
+    "origen": "ZCO",
+    "destino": "PUQ",
+    "hora_salida": "03:44",
+    "hora_llegada": "04:16",
+    "fecha": "08/01/24",
+    "avion": {
+      "modelo": "Airbus A319",
+      "numero_de_serie": 14163,
+      "stock_de_pasajeros": 91
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 141,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 251,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 91,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 79,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 5,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 5,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 169,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 171,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 870,
+    "origen": "CPO",
+    "destino": "PUQ",
+    "hora_salida": "20:15",
+    "hora_llegada": "22:28",
+    "fecha": "05/12/23",
+    "avion": {
+      "modelo": "Airbus A340",
+      "numero_de_serie": 46973,
+      "stock_de_pasajeros": 85
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 158,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 24,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 85,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 60,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 10,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 48,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 143,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 16,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 253,
+    "origen": "PUQ",
+    "destino": "CJC",
+    "hora_salida": "22:36",
+    "hora_llegada": "23:16",
+    "fecha": "12/02/23",
+    "avion": {
+      "modelo": "Airbus A330",
+      "numero_de_serie": 83444,
+      "stock_de_pasajeros": 112
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 106,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 251,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 112,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 27,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 4,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 1,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 113,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 196,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 433,
+    "origen": "IPC",
+    "destino": "BBA",
+    "hora_salida": "18:51",
+    "hora_llegada": "20:49",
+    "fecha": "04/07/23",
+    "avion": {
+      "modelo": "Airbus A380",
+      "numero_de_serie": 24317,
+      "stock_de_pasajeros": 69
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 78,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 194,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 69,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 48,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 46,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 142,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 186,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 526,
+    "origen": "IPC",
+    "destino": "ZAL",
+    "hora_salida": "10:10",
+    "hora_llegada": "11:28",
+    "fecha": "28/06/24",
+    "avion": {
+      "modelo": "Airbus A380",
+      "numero_de_serie": 28651,
+      "stock_de_pasajeros": 57
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 66,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 104,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 57,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 6,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 6,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 35,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 77,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 33,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 364,
+    "origen": "LSC",
+    "destino": "SCL",
+    "hora_salida": "02:17",
+    "hora_llegada": "04:53",
+    "fecha": "03/04/23",
+    "avion": {
+      "modelo": "Airbus A318",
+      "numero_de_serie": 45876,
+      "stock_de_pasajeros": 59
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 115,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 136,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 59,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 41,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 10,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 8,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 118,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 115,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 950,
+    "origen": "IPC",
+    "destino": "CPO",
+    "hora_salida": "15:12",
+    "hora_llegada": "19:54",
+    "fecha": "28/06/24",
+    "avion": {
+      "modelo": "Airbus A340",
+      "numero_de_serie": 58366,
+      "stock_de_pasajeros": 105
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 97,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 17,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 105,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 15,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 5,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 38,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 32,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 81,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 117,
+    "origen": "IPC",
+    "destino": "ZOS",
+    "hora_salida": "12:30",
+    "hora_llegada": "13:26",
+    "fecha": "12/10/24",
+    "avion": {
+      "modelo": "Airbus A310",
+      "numero_de_serie": 35219,
+      "stock_de_pasajeros": 125
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 142,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 277,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 125,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 35,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 7,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 38,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 290,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 127,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 749,
+    "origen": "ARI",
+    "destino": "SCL",
+    "hora_salida": "09:04",
+    "hora_llegada": "10:53",
+    "fecha": "04/05/23",
+    "avion": {
+      "modelo": "Airbus A310",
+      "numero_de_serie": 71431,
+      "stock_de_pasajeros": 50
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 25,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 77,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 50,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 38,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 1,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 147,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 69,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 651,
+    "origen": "CPO",
+    "destino": "SCL",
+    "hora_salida": "06:02",
+    "hora_llegada": "08:38",
+    "fecha": "19/08/24",
+    "avion": {
+      "modelo": "Airbus A320",
+      "numero_de_serie": 10561,
+      "stock_de_pasajeros": 119
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 61,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 235,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 119,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 65,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 1,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 41,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 54,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 583,
+    "origen": "CPO",
+    "destino": "BBA",
+    "hora_salida": "01:37",
+    "hora_llegada": "03:00",
+    "fecha": "17/05/23",
+    "avion": {
+      "modelo": "Airbus A319",
+      "numero_de_serie": 84950,
+      "stock_de_pasajeros": 117
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 70,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 244,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 117,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 97,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 0,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 24,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 166,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 77,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 878,
+    "origen": "IQQ",
+    "destino": "PMC",
+    "hora_salida": "09:48",
+    "hora_llegada": "11:11",
+    "fecha": "10/03/24",
+    "avion": {
+      "modelo": "Airbus A320",
+      "numero_de_serie": 87069,
+      "stock_de_pasajeros": 103
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 96,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 200,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 103,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 41,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 4,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 42,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 65,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 101,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 170,
+    "origen": "PMC",
+    "destino": "BBA",
+    "hora_salida": "11:24",
+    "hora_llegada": "15:34",
+    "fecha": "15/08/24",
+    "avion": {
+      "modelo": "Airbus A330",
+      "numero_de_serie": 66040,
+      "stock_de_pasajeros": 104
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 135,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 120,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 104,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 100,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 0,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 41,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 286,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 63,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 583,
+    "origen": "PUQ",
+    "destino": "CCP",
+    "hora_salida": "19:58",
+    "hora_llegada": "21:06",
+    "fecha": "04/03/23",
+    "avion": {
+      "modelo": "Airbus A300",
+      "numero_de_serie": 26393,
+      "stock_de_pasajeros": 87
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 89,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 93,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 87,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 44,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 8,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 11,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 52,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 74,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 972,
+    "origen": "PMC",
+    "destino": "IQQ",
+    "hora_salida": "06:22",
+    "hora_llegada": "08:00",
+    "fecha": "06/07/23",
+    "avion": {
+      "modelo": "Airbus A350",
+      "numero_de_serie": 19461,
+      "stock_de_pasajeros": 58
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 18,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 132,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 58,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 1,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 4,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 26,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 6,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 109,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 118,
+    "origen": "CCP",
+    "destino": "LSC",
+    "hora_salida": "09:25",
+    "hora_llegada": "11:58",
+    "fecha": "17/06/23",
+    "avion": {
+      "modelo": "Airbus A321",
+      "numero_de_serie": 42218,
+      "stock_de_pasajeros": 62
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 46,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 104,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 62,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 47,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 7,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 10,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 98,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 835,
+    "origen": "ARI",
+    "destino": "ZOS",
+    "hora_salida": "18:16",
+    "hora_llegada": "22:39",
+    "fecha": "02/11/23",
+    "avion": {
+      "modelo": "Airbus A320",
+      "numero_de_serie": 69023,
+      "stock_de_pasajeros": 81
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 75,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 66,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 81,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 48,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 12,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 33,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 198,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 49,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 149,
+    "origen": "CCP",
+    "destino": "LSC",
+    "hora_salida": "07:44",
+    "hora_llegada": "11:45",
+    "fecha": "09/02/24",
+    "avion": {
+      "modelo": "Airbus A380",
+      "numero_de_serie": 38056,
+      "stock_de_pasajeros": 87
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 44,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 258,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 87,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 76,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 5,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 46,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 160,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 73,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 863,
+    "origen": "BBA",
+    "destino": "ARI",
+    "hora_salida": "04:03",
+    "hora_llegada": "07:54",
+    "fecha": "08/07/24",
+    "avion": {
+      "modelo": "Airbus A330",
+      "numero_de_serie": 30792,
+      "stock_de_pasajeros": 61
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 76,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 9,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 61,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 60,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 3,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 45,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 24,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 27,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 856,
+    "origen": "BBA",
+    "destino": "CJC",
+    "hora_salida": "20:54",
+    "hora_llegada": "21:05",
+    "fecha": "07/01/23",
+    "avion": {
+      "modelo": "Airbus A300",
+      "numero_de_serie": 42296,
+      "stock_de_pasajeros": 111
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 7,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 287,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 111,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 97,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 3,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 17,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 180,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 34,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 829,
+    "origen": "ARI",
+    "destino": "ZAL",
+    "hora_salida": "05:31",
+    "hora_llegada": "06:50",
+    "fecha": "08/01/23",
+    "avion": {
+      "modelo": "Airbus A319",
+      "numero_de_serie": 19582,
+      "stock_de_pasajeros": 116
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 222,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 219,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 116,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 109,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 12,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 47,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 187,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 14,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 542,
+    "origen": "ZAL",
+    "destino": "ARI",
+    "hora_salida": "21:07",
+    "hora_llegada": "00:57",
+    "fecha": "27/04/24",
+    "avion": {
+      "modelo": "Airbus A318",
+      "numero_de_serie": 41383,
+      "stock_de_pasajeros": 113
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 35,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 300,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 113,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 57,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 0,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 31,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 213,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 153,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 125,
+    "origen": "ZCO",
+    "destino": "BBA",
+    "hora_salida": "12:45",
+    "hora_llegada": "13:22",
+    "fecha": "11/07/23",
+    "avion": {
+      "modelo": "Airbus A318",
+      "numero_de_serie": 90392,
+      "stock_de_pasajeros": 84
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 61,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 68,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 84,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 3,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 1,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 45,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 38,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 81,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 838,
+    "origen": "ARI",
+    "destino": "ZOS",
+    "hora_salida": "00:46",
+    "hora_llegada": "03:07",
+    "fecha": "14/09/24",
+    "avion": {
+      "modelo": "Airbus A220",
+      "numero_de_serie": 53368,
+      "stock_de_pasajeros": 111
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 169,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 223,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 111,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 30,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 3,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 45,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 174,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 99,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 736,
+    "origen": "IPC",
+    "destino": "PUQ",
+    "hora_salida": "09:22",
+    "hora_llegada": "13:38",
+    "fecha": "12/01/23",
+    "avion": {
+      "modelo": "Airbus A350",
+      "numero_de_serie": 26175,
+      "stock_de_pasajeros": 66
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 45,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 104,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 66,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 56,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 10,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 8,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 135,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 50,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 630,
+    "origen": "ZOS",
+    "destino": "ARI",
+    "hora_salida": "14:25",
+    "hora_llegada": "17:33",
+    "fecha": "12/03/23",
+    "avion": {
+      "modelo": "Airbus A320",
+      "numero_de_serie": 87924,
+      "stock_de_pasajeros": 102
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 149,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 36,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 102,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 23,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 6,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 7,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 103,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 46,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 261,
+    "origen": "IQQ",
+    "destino": "ZOS",
+    "hora_salida": "14:28",
+    "hora_llegada": "16:28",
+    "fecha": "25/03/24",
+    "avion": {
+      "modelo": "Airbus A340",
+      "numero_de_serie": 15606,
+      "stock_de_pasajeros": 62
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 2,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 40,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 62,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 32,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 9,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 39,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 29,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 170,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 358,
+    "origen": "IPC",
+    "destino": "ZAL",
+    "hora_salida": "11:44",
+    "hora_llegada": "13:16",
+    "fecha": "08/12/23",
+    "avion": {
+      "modelo": "Airbus A310",
+      "numero_de_serie": 57929,
+      "stock_de_pasajeros": 51
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 23,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 87,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 51,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 8,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 10,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 28,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 81,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 166,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 155,
+    "origen": "ZOS",
+    "destino": "BBA",
+    "hora_salida": "07:53",
+    "hora_llegada": "10:36",
+    "fecha": "23/01/24",
+    "avion": {
+      "modelo": "Airbus A319",
+      "numero_de_serie": 90071,
+      "stock_de_pasajeros": 66
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 18,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 100,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 66,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 15,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 7,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 6,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 24,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 88,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 489,
+    "origen": "IPC",
+    "destino": "PUQ",
+    "hora_salida": "22:31",
+    "hora_llegada": "23:18",
+    "fecha": "26/04/23",
+    "avion": {
+      "modelo": "Airbus A340",
+      "numero_de_serie": 14592,
+      "stock_de_pasajeros": 69
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 56,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 82,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 69,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 28,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 12,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 30,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 13,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 145,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 446,
+    "origen": "CJC",
+    "destino": "PUQ",
+    "hora_salida": "10:39",
+    "hora_llegada": "11:36",
+    "fecha": "14/02/24",
+    "avion": {
+      "modelo": "Airbus A319",
+      "numero_de_serie": 27434,
+      "stock_de_pasajeros": 50
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 11,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 19,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 50,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 24,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 9,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 49,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 57,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 109,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 169,
+    "origen": "ZAL",
+    "destino": "IQQ",
+    "hora_salida": "12:24",
+    "hora_llegada": "13:12",
+    "fecha": "30/10/24",
+    "avion": {
+      "modelo": "Airbus A300",
+      "numero_de_serie": 81238,
+      "stock_de_pasajeros": 55
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 0,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 61,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 55,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 21,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 7,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 27,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 72,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 200,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 613,
+    "origen": "ZAL",
+    "destino": "PUQ",
+    "hora_salida": "21:43",
+    "hora_llegada": "00:30",
+    "fecha": "17/10/23",
+    "avion": {
+      "modelo": "Airbus A220",
+      "numero_de_serie": 60501,
+      "stock_de_pasajeros": 76
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 107,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 217,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 76,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 67,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 7,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 29,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 29,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 32,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 947,
+    "origen": "IQQ",
+    "destino": "CPO",
+    "hora_salida": "05:28",
+    "hora_llegada": "06:17",
+    "fecha": "23/07/23",
+    "avion": {
+      "modelo": "Airbus A319",
+      "numero_de_serie": 89686,
+      "stock_de_pasajeros": 92
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 119,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 95,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 92,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 27,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 12,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 47,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 268,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 144,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 166,
+    "origen": "ZCO",
+    "destino": "CCP",
+    "hora_salida": "13:27",
+    "hora_llegada": "14:35",
+    "fecha": "15/08/24",
+    "avion": {
+      "modelo": "Airbus A350",
+      "numero_de_serie": 24187,
+      "stock_de_pasajeros": 90
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 49,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 155,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 90,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 86,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 12,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 3,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 168,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 176,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 209,
+    "origen": "CPO",
+    "destino": "SCL",
+    "hora_salida": "03:00",
+    "hora_llegada": "06:42",
+    "fecha": "23/04/23",
+    "avion": {
+      "modelo": "Airbus A340",
+      "numero_de_serie": 83131,
+      "stock_de_pasajeros": 122
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 215,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 59,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 122,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 60,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 5,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 10,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 25,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 79,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 350,
+    "origen": "BBA",
+    "destino": "ARI",
+    "hora_salida": "08:26",
+    "hora_llegada": "11:16",
+    "fecha": "03/12/24",
+    "avion": {
+      "modelo": "Airbus A300",
+      "numero_de_serie": 76239,
+      "stock_de_pasajeros": 77
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 130,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 119,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 77,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 5,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 14,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 121,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 109,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 986,
+    "origen": "PMC",
+    "destino": "ZAL",
+    "hora_salida": "13:16",
+    "hora_llegada": "17:53",
+    "fecha": "02/11/24",
+    "avion": {
+      "modelo": "Airbus A330",
+      "numero_de_serie": 11971,
+      "stock_de_pasajeros": 86
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 96,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 121,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 86,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 74,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 2,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 34,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 159,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 116,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 286,
+    "origen": "CJC",
+    "destino": "ZOS",
+    "hora_salida": "02:30",
+    "hora_llegada": "05:54",
+    "fecha": "03/01/24",
+    "avion": {
+      "modelo": "Airbus A340",
+      "numero_de_serie": 77090,
+      "stock_de_pasajeros": 73
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 134,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 219,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 73,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 35,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 42,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 2,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 0,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 252,
+    "origen": "ZAL",
+    "destino": "ZCO",
+    "hora_salida": "10:57",
+    "hora_llegada": "13:37",
+    "fecha": "18/09/23",
+    "avion": {
+      "modelo": "Airbus A340",
+      "numero_de_serie": 14781,
+      "stock_de_pasajeros": 100
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 187,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 100,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 100,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 6,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 12,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 48,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 129,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 164,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 718,
+    "origen": "PMC",
+    "destino": "ARI",
+    "hora_salida": "20:30",
+    "hora_llegada": "22:41",
+    "fecha": "05/06/23",
+    "avion": {
+      "modelo": "Airbus A320",
+      "numero_de_serie": 68413,
+      "stock_de_pasajeros": 66
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 35,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 110,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 66,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 34,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 8,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 44,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 92,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 26,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 295,
+    "origen": "CCP",
+    "destino": "ZAL",
+    "hora_salida": "14:24",
+    "hora_llegada": "17:23",
+    "fecha": "06/11/24",
+    "avion": {
+      "modelo": "Airbus A300",
+      "numero_de_serie": 18370,
+      "stock_de_pasajeros": 55
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 94,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 107,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 55,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 53,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 5,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 18,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 54,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 68,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 279,
+    "origen": "PUQ",
+    "destino": "CPO",
+    "hora_salida": "02:17",
+    "hora_llegada": "03:10",
+    "fecha": "24/10/24",
+    "avion": {
+      "modelo": "Airbus A340",
+      "numero_de_serie": 24266,
+      "stock_de_pasajeros": 78
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 15,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 67,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 78,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 38,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 12,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 29,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 156,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 30,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 737,
+    "origen": "IPC",
+    "destino": "CJC",
+    "hora_salida": "08:32",
+    "hora_llegada": "11:42",
+    "fecha": "25/09/23",
+    "avion": {
+      "modelo": "Airbus A318",
+      "numero_de_serie": 67267,
+      "stock_de_pasajeros": 124
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 245,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 256,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 124,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 11,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 8,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 31,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 354,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 95,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 646,
+    "origen": "ZOS",
+    "destino": "SCL",
+    "hora_salida": "06:40",
+    "hora_llegada": "07:09",
+    "fecha": "22/07/24",
+    "avion": {
+      "modelo": "Airbus A380",
+      "numero_de_serie": 86057,
+      "stock_de_pasajeros": 82
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 97,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 14,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 82,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 61,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 0,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 103,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 21,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 848,
+    "origen": "ZCO",
+    "destino": "LSC",
+    "hora_salida": "22:53",
+    "hora_llegada": "23:54",
+    "fecha": "06/04/24",
+    "avion": {
+      "modelo": "Airbus A320",
+      "numero_de_serie": 60020,
+      "stock_de_pasajeros": 70
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 48,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 165,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 70,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 21,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 6,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 0,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 61,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 97,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 541,
+    "origen": "SCL",
+    "destino": "ZCO",
+    "hora_salida": "11:08",
+    "hora_llegada": "12:23",
+    "fecha": "07/03/24",
+    "avion": {
+      "modelo": "Airbus A321",
+      "numero_de_serie": 87612,
+      "stock_de_pasajeros": 85
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 1,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 19,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 85,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 16,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 0,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 22,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 229,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 93,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 297,
+    "origen": "ARI",
+    "destino": "PMC",
+    "hora_salida": "10:02",
+    "hora_llegada": "12:50",
+    "fecha": "31/07/23",
+    "avion": {
+      "modelo": "Airbus A310",
+      "numero_de_serie": 92640,
+      "stock_de_pasajeros": 106
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 96,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 293,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 106,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 7,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 6,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 31,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 11,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 164,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 721,
+    "origen": "CCP",
+    "destino": "ZOS",
+    "hora_salida": "03:31",
+    "hora_llegada": "04:54",
+    "fecha": "04/11/23",
+    "avion": {
+      "modelo": "Airbus A321",
+      "numero_de_serie": 22846,
+      "stock_de_pasajeros": 75
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 119,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 209,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 75,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 8,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 0,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 42,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 21,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 187,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 486,
+    "origen": "ZAL",
+    "destino": "PMC",
+    "hora_salida": "13:40",
+    "hora_llegada": "17:37",
+    "fecha": "12/11/24",
+    "avion": {
+      "modelo": "Airbus A220",
+      "numero_de_serie": 21262,
+      "stock_de_pasajeros": 83
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 58,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 87,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 83,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 82,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 12,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 25,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 106,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 89,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 153,
+    "origen": "ZAL",
+    "destino": "IQQ",
+    "hora_salida": "14:26",
+    "hora_llegada": "18:32",
+    "fecha": "06/04/24",
+    "avion": {
+      "modelo": "Airbus A319",
+      "numero_de_serie": 48412,
+      "stock_de_pasajeros": 104
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 85,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 100,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 104,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 74,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 9,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 43,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 214,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 60,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 740,
+    "origen": "LSC",
+    "destino": "ZCO",
+    "hora_salida": "21:41",
+    "hora_llegada": "00:34",
+    "fecha": "06/11/24",
+    "avion": {
+      "modelo": "Airbus A321",
+      "numero_de_serie": 11590,
+      "stock_de_pasajeros": 82
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 159,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 243,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 82,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 3,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 0,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 41,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 170,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 113,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 447,
+    "origen": "IPC",
+    "destino": "PUQ",
+    "hora_salida": "11:47",
+    "hora_llegada": "13:15",
+    "fecha": "14/06/24",
+    "avion": {
+      "modelo": "Airbus A321",
+      "numero_de_serie": 29281,
+      "stock_de_pasajeros": 114
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 87,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 114,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 114,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 82,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 1,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 47,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 328,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 126,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 128,
+    "origen": "CPO",
+    "destino": "PMC",
+    "hora_salida": "14:36",
+    "hora_llegada": "17:10",
+    "fecha": "17/10/24",
+    "avion": {
+      "modelo": "Airbus A330",
+      "numero_de_serie": 30269,
+      "stock_de_pasajeros": 99
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 24,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 297,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 99,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 74,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 6,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 8,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 208,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 24,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 271,
+    "origen": "IQQ",
+    "destino": "IPC",
+    "hora_salida": "22:06",
+    "hora_llegada": "00:36",
+    "fecha": "04/06/23",
+    "avion": {
+      "modelo": "Airbus A310",
+      "numero_de_serie": 29217,
+      "stock_de_pasajeros": 52
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 93,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 66,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 52,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 6,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 12,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 18,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 87,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 104,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 704,
+    "origen": "ZOS",
+    "destino": "BBA",
+    "hora_salida": "06:23",
+    "hora_llegada": "09:03",
+    "fecha": "10/01/24",
+    "avion": {
+      "modelo": "Airbus A380",
+      "numero_de_serie": 73989,
+      "stock_de_pasajeros": 78
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 130,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 135,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 78,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 0,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 2,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 6,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 41,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 113,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 143,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 584,
+    "origen": "PMC",
+    "destino": "IQQ",
+    "hora_salida": "10:06",
+    "hora_llegada": "13:24",
+    "fecha": "31/01/24",
+    "avion": {
+      "modelo": "Airbus A319",
+      "numero_de_serie": 70878,
+      "stock_de_pasajeros": 52
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 39,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 34,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 52,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 19,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 11,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 12,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 33,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 94,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 161,
+    "origen": "ARI",
+    "destino": "PMC",
+    "hora_salida": "13:37",
+    "hora_llegada": "17:22",
+    "fecha": "20/06/23",
+    "avion": {
+      "modelo": "Airbus A330",
+      "numero_de_serie": 67195,
+      "stock_de_pasajeros": 110
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 132,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 63,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 110,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 85,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 3,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 41,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 63,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 115,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 436,
+    "origen": "LSC",
+    "destino": "IPC",
+    "hora_salida": "03:00",
+    "hora_llegada": "04:04",
+    "fecha": "21/10/23",
+    "avion": {
+      "modelo": "Airbus A318",
+      "numero_de_serie": 68645,
+      "stock_de_pasajeros": 56
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 55,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 144,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 56,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 6,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 0,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 33,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 86,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 6,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 869,
+    "origen": "ZCO",
+    "destino": "ARI",
+    "hora_salida": "09:41",
+    "hora_llegada": "10:17",
+    "fecha": "29/02/24",
+    "avion": {
+      "modelo": "Airbus A380",
+      "numero_de_serie": 22764,
+      "stock_de_pasajeros": 51
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 63,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 31,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 51,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 49,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 0,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 36,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 26,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 142,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 521,
+    "origen": "CCP",
+    "destino": "PMC",
+    "hora_salida": "10:42",
+    "hora_llegada": "14:40",
+    "fecha": "06/04/24",
+    "avion": {
+      "modelo": "Airbus A321",
+      "numero_de_serie": 68379,
+      "stock_de_pasajeros": 106
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 84,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 18,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 106,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 95,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 1,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 50,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 205,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 148,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 608,
+    "origen": "CCP",
+    "destino": "ARI",
+    "hora_salida": "08:37",
+    "hora_llegada": "09:02",
+    "fecha": "06/10/23",
+    "avion": {
+      "modelo": "Airbus A300",
+      "numero_de_serie": 96988,
+      "stock_de_pasajeros": 98
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 144,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 56,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 98,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 40,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 0,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 0,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 16,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 168,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 157,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 379,
+    "origen": "PUQ",
+    "destino": "CPO",
+    "hora_salida": "19:47",
+    "hora_llegada": "21:58",
+    "fecha": "26/11/24",
+    "avion": {
+      "modelo": "Airbus A340",
+      "numero_de_serie": 56977,
+      "stock_de_pasajeros": 106
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 109,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 80,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 106,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 78,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 4,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 4,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 38,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 93,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 181,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 638,
+    "origen": "IQQ",
+    "destino": "SCL",
+    "hora_salida": "21:57",
+    "hora_llegada": "00:15",
+    "fecha": "15/09/23",
+    "avion": {
+      "modelo": "Airbus A310",
+      "numero_de_serie": 39013,
+      "stock_de_pasajeros": 104
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 17,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 251,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 104,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 76,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 3,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 5,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 8,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 21,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 181,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 635,
+    "origen": "LSC",
+    "destino": "PUQ",
+    "hora_salida": "13:34",
+    "hora_llegada": "17:58",
+    "fecha": "18/04/24",
+    "avion": {
+      "modelo": "Airbus A320",
+      "numero_de_serie": 47111,
+      "stock_de_pasajeros": 96
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 92,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 192,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 96,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 39,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 7,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 17,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 135,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 180,
+        "ssr": "WIFI"
+      }
+    ]
+  },
+  {
+    "numero_vuelo": 174,
+    "origen": "BBA",
+    "destino": "CPO",
+    "hora_salida": "18:37",
+    "hora_llegada": "20:02",
+    "fecha": "18/09/23",
+    "avion": {
+      "modelo": "Airbus A320",
+      "numero_de_serie": 43111,
+      "stock_de_pasajeros": 77
+    },
+    "ancillaries": [
+      {
+        "nombre": "Equipaje de mano",
+        "stock": 97,
+        "ssr": "BGH"
+      },
+      {
+        "nombre": "Equipaje de bodega",
+        "stock": 23,
+        "ssr": "BGR"
+      },
+      {
+        "nombre": "Asiento",
+        "stock": 77,
+        "ssr": "STDF"
+      },
+      {
+        "nombre": "Embarque y Check In prioritario",
+        "stock": 70,
+        "ssr": "PAXS"
+      },
+      {
+        "nombre": "Mascota en cabina",
+        "stock": 1,
+        "ssr": "PTCR"
+      },
+      {
+        "nombre": "Mascota en bodega",
+        "stock": 3,
+        "ssr": "AVIH"
+      },
+      {
+        "nombre": "Equipaje especial",
+        "stock": 8,
+        "ssr": "SPML"
+      },
+      {
+        "nombre": "Acceso a Salón VIP",
+        "stock": 149,
+        "ssr": "LNGE"
+      },
+      {
+        "nombre": "Wi-Fi a bordo",
+        "stock": 107,
+        "ssr": "WIFI"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5132 @@
+[
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 469,
+            "origen": "IPC",
+            "destino": "SCL",
+            "hora_salida": "16:38",
+            "hora_llegada": "18:24",
+            "fecha": "28/12/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Kim",
+            "apellido": "Newton",
+            "edad": 30,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 70000,
+                "vuelo_ida": 62540
+            }
+        },
+        {
+            "nombre": "Andrea",
+            "apellido": "Gilmore",
+            "edad": 58,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 126000,
+                "vuelo_ida": 62540
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 808,
+            "origen": "CJC",
+            "destino": "CPO",
+            "hora_salida": "20:13",
+            "hora_llegada": "23:18",
+            "fecha": "27/12/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Garrett",
+            "apellido": "Hutchinson",
+            "edad": 27,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 201000,
+                "vuelo_ida": 109150
+            }
+        },
+        {
+            "nombre": "Shannon",
+            "apellido": "Madden",
+            "edad": 32,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 90000,
+                "vuelo_ida": 109150
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 268,
+            "origen": "ZCO",
+            "destino": "ARI",
+            "hora_salida": "23:23",
+            "hora_llegada": "07:43",
+            "fecha": "24/09/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Evan",
+            "apellido": "Murphy",
+            "edad": 27,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 110000,
+                "vuelo_ida": -554600
+            }
+        },
+        {
+            "nombre": "Amanda",
+            "apellido": "Brown",
+            "edad": 31,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 165000,
+                "vuelo_ida": -554600
+            }
+        },
+        {
+            "nombre": "Beverly",
+            "apellido": "Cohen",
+            "edad": 29,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 265000,
+                "vuelo_ida": -554600
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 145,
+            "origen": "ZAL",
+            "destino": "BBA",
+            "hora_salida": "23:06",
+            "hora_llegada": "00:00",
+            "fecha": "23/12/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Vanessa",
+            "apellido": "Elliott",
+            "edad": 34,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 91000,
+                "vuelo_ida": -817740
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 873,
+            "origen": "SCL",
+            "destino": "CPO",
+            "hora_salida": "09:49",
+            "hora_llegada": "10:46",
+            "fecha": "14/01/24"
+        },
+        {
+            "numero_vuelo": 651,
+            "origen": "CPO",
+            "destino": "SCL",
+            "hora_salida": "06:02",
+            "hora_llegada": "08:38",
+            "fecha": "19/08/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Joel",
+            "apellido": "Walker",
+            "edad": 36,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 1
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 95000,
+                "vuelo_ida": 33630,
+                "ancillaries_vuelta": 40000,
+                "vuelo_vuelta": 92040
+            }
+        },
+        {
+            "nombre": "Paul",
+            "apellido": "Freeman",
+            "edad": 55,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 150000,
+                "vuelo_ida": 33630,
+                "ancillaries_vuelta": 49000,
+                "vuelo_vuelta": 92040
+            }
+        },
+        {
+            "nombre": "Kenneth",
+            "apellido": "Wilson",
+            "edad": 18,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 122000,
+                "vuelo_ida": 33630,
+                "ancillaries_vuelta": 35000,
+                "vuelo_vuelta": 92040
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 451,
+            "origen": "PMC",
+            "destino": "CPO",
+            "hora_salida": "01:59",
+            "hora_llegada": "02:53",
+            "fecha": "25/05/24"
+        },
+        {
+            "numero_vuelo": 128,
+            "origen": "CPO",
+            "destino": "PMC",
+            "hora_salida": "14:36",
+            "hora_llegada": "17:10",
+            "fecha": "17/10/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Andrea",
+            "apellido": "Hernandez",
+            "edad": 52,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 21000,
+                "vuelo_ida": 31860,
+                "ancillaries_vuelta": 120000,
+                "vuelo_vuelta": 90860
+            }
+        },
+        {
+            "nombre": "Shannon",
+            "apellido": "Kelly",
+            "edad": 50,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 39000,
+                "vuelo_ida": 31860,
+                "ancillaries_vuelta": 140000,
+                "vuelo_vuelta": 90860
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 141,
+            "origen": "CJC",
+            "destino": "ZAL",
+            "hora_salida": "20:28",
+            "hora_llegada": "22:51",
+            "fecha": "18/04/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Sydney",
+            "apellido": "Jackson",
+            "edad": 23,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 160000,
+                "vuelo_ida": 84370
+            }
+        },
+        {
+            "nombre": "Kyle",
+            "apellido": "Richards",
+            "edad": 59,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 200000,
+                "vuelo_ida": 84370
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 737,
+            "origen": "IPC",
+            "destino": "CJC",
+            "hora_salida": "08:32",
+            "hora_llegada": "11:42",
+            "fecha": "25/09/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Jason",
+            "apellido": "Floyd",
+            "edad": 54,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 225000,
+                "vuelo_ida": 112100
+            }
+        },
+        {
+            "nombre": "Nathan",
+            "apellido": "King",
+            "edad": 25,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 32000,
+                "vuelo_ida": 112100
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 878,
+            "origen": "IQQ",
+            "destino": "PMC",
+            "hora_salida": "09:48",
+            "hora_llegada": "11:11",
+            "fecha": "10/03/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Ashley",
+            "apellido": "Bridges",
+            "edad": 23,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 180000,
+                "vuelo_ida": 48970
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 161,
+            "origen": "ARI",
+            "destino": "PMC",
+            "hora_salida": "13:37",
+            "hora_llegada": "17:22",
+            "fecha": "20/06/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Christian",
+            "apellido": "Gomez",
+            "edad": 28,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 115000,
+                "vuelo_ida": 132750
+            }
+        },
+        {
+            "nombre": "Timothy",
+            "apellido": "Rogers",
+            "edad": 39,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 129000,
+                "vuelo_ida": 132750
+            }
+        },
+        {
+            "nombre": "Willie",
+            "apellido": "Scott",
+            "edad": 37,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 170000,
+                "vuelo_ida": 132750
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 271,
+            "origen": "IQQ",
+            "destino": "IPC",
+            "hora_salida": "22:06",
+            "hora_llegada": "00:36",
+            "fecha": "04/06/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Ashley",
+            "apellido": "Zuniga",
+            "edad": 41,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 175000,
+                "vuelo_ida": -761100
+            }
+        },
+        {
+            "nombre": "Travis",
+            "apellido": "Campbell",
+            "edad": 43,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 65000,
+                "vuelo_ida": -761100
+            }
+        },
+        {
+            "nombre": "Jason",
+            "apellido": "Palmer",
+            "edad": 54,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 120000,
+                "vuelo_ida": -761100
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 947,
+            "origen": "IQQ",
+            "destino": "CPO",
+            "hora_salida": "05:28",
+            "hora_llegada": "06:17",
+            "fecha": "23/07/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Wesley",
+            "apellido": "Ferguson",
+            "edad": 24,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 135000,
+                "vuelo_ida": 28910
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 295,
+            "origen": "CCP",
+            "destino": "ZAL",
+            "hora_salida": "14:24",
+            "hora_llegada": "17:23",
+            "fecha": "06/11/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Tiffany",
+            "apellido": "Carrillo",
+            "edad": 24,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 90000,
+                "vuelo_ida": 105610
+            }
+        },
+        {
+            "nombre": "Jennifer",
+            "apellido": "Jones",
+            "edad": 18,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 160000,
+                "vuelo_ida": 105610
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 612,
+            "origen": "CJC",
+            "destino": "SCL",
+            "hora_salida": "14:08",
+            "hora_llegada": "15:55",
+            "fecha": "18/04/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Karen",
+            "apellido": "James",
+            "edad": 37,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 165000,
+                "vuelo_ida": 63130
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 758,
+            "origen": "ARI",
+            "destino": "CJC",
+            "hora_salida": "14:07",
+            "hora_llegada": "17:23",
+            "fecha": "03/03/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Anthony",
+            "apellido": "Smith",
+            "edad": 33,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 80000,
+                "vuelo_ida": 115640
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 175,
+            "origen": "CPO",
+            "destino": "LSC",
+            "hora_salida": "09:09",
+            "hora_llegada": "10:52",
+            "fecha": "14/04/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Jeremy",
+            "apellido": "Mata",
+            "edad": 38,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 70000,
+                "vuelo_ida": 60770
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 825,
+            "origen": "SCL",
+            "destino": "ZAL",
+            "hora_salida": "08:03",
+            "hora_llegada": "10:35",
+            "fecha": "06/11/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Aaron",
+            "apellido": "Allison",
+            "edad": 48,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 60000,
+                "vuelo_ida": 89680
+            }
+        },
+        {
+            "nombre": "Tony",
+            "apellido": "Ray",
+            "edad": 28,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 136000,
+                "vuelo_ida": 89680
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 810,
+            "origen": "PMC",
+            "destino": "CCP",
+            "hora_salida": "09:15",
+            "hora_llegada": "12:55",
+            "fecha": "27/07/23"
+        },
+        {
+            "numero_vuelo": 521,
+            "origen": "CCP",
+            "destino": "PMC",
+            "hora_salida": "10:42",
+            "hora_llegada": "14:40",
+            "fecha": "06/04/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Timothy",
+            "apellido": "Johnson",
+            "edad": 33,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 30000,
+                "vuelo_ida": 129800,
+                "ancillaries_vuelta": 11000,
+                "vuelo_vuelta": 140420
+            }
+        },
+        {
+            "nombre": "Jesse",
+            "apellido": "Wagner",
+            "edad": 48,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 65000,
+                "vuelo_ida": 129800,
+                "ancillaries_vuelta": 155000,
+                "vuelo_vuelta": 140420
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 172,
+            "origen": "LSC",
+            "destino": "CJC",
+            "hora_salida": "03:21",
+            "hora_llegada": "05:37",
+            "fecha": "11/01/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Todd",
+            "apellido": "Larson",
+            "edad": 38,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 90000,
+                "vuelo_ida": 80240
+            }
+        },
+        {
+            "nombre": "Stefanie",
+            "apellido": "Hammond",
+            "edad": 27,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 80000,
+                "vuelo_ida": 80240
+            }
+        },
+        {
+            "nombre": "Ashley",
+            "apellido": "White",
+            "edad": 51,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 185000,
+                "vuelo_ida": 80240
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 412,
+            "origen": "SCL",
+            "destino": "LSC",
+            "hora_salida": "09:17",
+            "hora_llegada": "11:46",
+            "fecha": "30/12/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Danielle",
+            "apellido": "Walker",
+            "edad": 48,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 150000,
+                "vuelo_ida": 87910
+            }
+        },
+        {
+            "nombre": "Daniel",
+            "apellido": "Lowe",
+            "edad": 32,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 265000,
+                "vuelo_ida": 87910
+            }
+        },
+        {
+            "nombre": "Gregory",
+            "apellido": "Nichols",
+            "edad": 35,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 6000,
+                "vuelo_ida": 87910
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 936,
+            "origen": "ZOS",
+            "destino": "PMC",
+            "hora_salida": "17:26",
+            "hora_llegada": "21:32",
+            "fecha": "23/06/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Scott",
+            "apellido": "Palmer",
+            "edad": 47,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 170000,
+                "vuelo_ida": 145140
+            }
+        },
+        {
+            "nombre": "Katherine",
+            "apellido": "Todd",
+            "edad": 55,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 30000,
+                "vuelo_ida": 145140
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 629,
+            "origen": "ZOS",
+            "destino": "CJC",
+            "hora_salida": "21:13",
+            "hora_llegada": "00:25",
+            "fecha": "27/08/23"
+        },
+        {
+            "numero_vuelo": 286,
+            "origen": "CJC",
+            "destino": "ZOS",
+            "hora_salida": "02:30",
+            "hora_llegada": "05:54",
+            "fecha": "03/01/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Victoria",
+            "apellido": "Ramirez",
+            "edad": 35,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 265000,
+                "vuelo_ida": -736320,
+                "ancillaries_vuelta": 225000,
+                "vuelo_vuelta": 120360
+            }
+        },
+        {
+            "nombre": "Madeline",
+            "apellido": "Graham",
+            "edad": 23,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 182000,
+                "vuelo_ida": -736320,
+                "ancillaries_vuelta": 120000,
+                "vuelo_vuelta": 120360
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 749,
+            "origen": "ARI",
+            "destino": "SCL",
+            "hora_salida": "09:04",
+            "hora_llegada": "10:53",
+            "fecha": "04/05/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Linda",
+            "apellido": "Gray",
+            "edad": 39,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 175000,
+                "vuelo_ida": 64310
+            }
+        },
+        {
+            "nombre": "Matthew",
+            "apellido": "Munoz",
+            "edad": 44,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 70000,
+                "vuelo_ida": 64310
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 433,
+            "origen": "IPC",
+            "destino": "BBA",
+            "hora_salida": "18:51",
+            "hora_llegada": "20:49",
+            "fecha": "04/07/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Deborah",
+            "apellido": "Francis",
+            "edad": 57,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 237000,
+                "vuelo_ida": 69620
+            }
+        },
+        {
+            "nombre": "Kristina",
+            "apellido": "Garcia",
+            "edad": 40,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 101000,
+                "vuelo_ida": 69620
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 613,
+            "origen": "BBA",
+            "destino": "SCL",
+            "hora_salida": "09:37",
+            "hora_llegada": "13:50",
+            "fecha": "04/02/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Holly",
+            "apellido": "Carter",
+            "edad": 24,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 70000,
+                "vuelo_ida": 149270
+            }
+        },
+        {
+            "nombre": "Dorothy",
+            "apellido": "Valdez",
+            "edad": 24,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 150000,
+                "vuelo_ida": 149270
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 196,
+            "origen": "PMC",
+            "destino": "SCL",
+            "hora_salida": "15:07",
+            "hora_llegada": "17:48",
+            "fecha": "18/06/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "John",
+            "apellido": "Butler",
+            "edad": 25,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 135000,
+                "vuelo_ida": 94990
+            }
+        },
+        {
+            "nombre": "Adrian",
+            "apellido": "Brown",
+            "edad": 18,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 80000,
+                "vuelo_ida": 94990
+            }
+        },
+        {
+            "nombre": "Kayla",
+            "apellido": "Allen",
+            "edad": 36,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 30000,
+                "vuelo_ida": 94990
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 882,
+            "origen": "CPO",
+            "destino": "BBA",
+            "hora_salida": "18:07",
+            "hora_llegada": "22:47",
+            "fecha": "10/09/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Brittany",
+            "apellido": "Crosby",
+            "edad": 23,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 220000,
+                "vuelo_ida": 165200
+            }
+        },
+        {
+            "nombre": "Shannon",
+            "apellido": "Taylor",
+            "edad": 33,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 96000,
+                "vuelo_ida": 165200
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 350,
+            "origen": "ARI",
+            "destino": "PUQ",
+            "hora_salida": "19:32",
+            "hora_llegada": "21:58",
+            "fecha": "16/06/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Miranda",
+            "apellido": "Spencer",
+            "edad": 59,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 80000,
+                "vuelo_ida": 86140
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 888,
+            "origen": "PUQ",
+            "destino": "SCL",
+            "hora_salida": "20:53",
+            "hora_llegada": "22:53",
+            "fecha": "08/12/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Daniel",
+            "apellido": "Freeman",
+            "edad": 30,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 30000,
+                "vuelo_ida": 70800
+            }
+        },
+        {
+            "nombre": "Philip",
+            "apellido": "Lambert",
+            "edad": 55,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 70000,
+                "vuelo_ida": 70800
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 612,
+            "origen": "CCP",
+            "destino": "CJC",
+            "hora_salida": "09:20",
+            "hora_llegada": "11:54",
+            "fecha": "17/02/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Elizabeth",
+            "apellido": "Mendez",
+            "edad": 34,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 10000,
+                "vuelo_ida": 90860
+            }
+        },
+        {
+            "nombre": "James",
+            "apellido": "Smith",
+            "edad": 26,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 82000,
+                "vuelo_ida": 90860
+            }
+        },
+        {
+            "nombre": "Wayne",
+            "apellido": "Berger",
+            "edad": 26,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 90000,
+                "vuelo_ida": 90860
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 261,
+            "origen": "IQQ",
+            "destino": "ZOS",
+            "hora_salida": "14:28",
+            "hora_llegada": "16:28",
+            "fecha": "25/03/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Janice",
+            "apellido": "Rodriguez",
+            "edad": 54,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 114000,
+                "vuelo_ida": 70800
+            }
+        },
+        {
+            "nombre": "Jill",
+            "apellido": "Mendez",
+            "edad": 50,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 110000,
+                "vuelo_ida": 70800
+            }
+        },
+        {
+            "nombre": "James",
+            "apellido": "Shelton",
+            "edad": 37,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 24000,
+                "vuelo_ida": 70800
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 355,
+            "origen": "ZOS",
+            "destino": "ZCO",
+            "hora_salida": "12:20",
+            "hora_llegada": "14:09",
+            "fecha": "06/02/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Gregory",
+            "apellido": "Gardner",
+            "edad": 23,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 216000,
+                "vuelo_ida": 64310
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 257,
+            "origen": "ZCO",
+            "destino": "PUQ",
+            "hora_salida": "03:44",
+            "hora_llegada": "04:16",
+            "fecha": "08/01/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Ashley",
+            "apellido": "Mays",
+            "edad": 49,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 30000,
+                "vuelo_ida": 18880
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 870,
+            "origen": "CPO",
+            "destino": "PUQ",
+            "hora_salida": "20:15",
+            "hora_llegada": "22:28",
+            "fecha": "05/12/23"
+        },
+        {
+            "numero_vuelo": 279,
+            "origen": "PUQ",
+            "destino": "CPO",
+            "hora_salida": "02:17",
+            "hora_llegada": "03:10",
+            "fecha": "24/10/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Cindy",
+            "apellido": "Carter",
+            "edad": 32,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 62000,
+                "vuelo_ida": 78470,
+                "ancillaries_vuelta": 94000,
+                "vuelo_vuelta": 31270
+            }
+        },
+        {
+            "nombre": "Carolyn",
+            "apellido": "Olson",
+            "edad": 50,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 64000,
+                "vuelo_ida": 78470,
+                "ancillaries_vuelta": 164000,
+                "vuelo_vuelta": 31270
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 253,
+            "origen": "PUQ",
+            "destino": "CJC",
+            "hora_salida": "22:36",
+            "hora_llegada": "23:16",
+            "fecha": "12/02/23"
+        },
+        {
+            "numero_vuelo": 446,
+            "origen": "CJC",
+            "destino": "PUQ",
+            "hora_salida": "10:39",
+            "hora_llegada": "11:36",
+            "fecha": "14/02/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Anthony",
+            "apellido": "Young",
+            "edad": 24,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 1
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 110000,
+                "vuelo_ida": 23600,
+                "ancillaries_vuelta": 120000,
+                "vuelo_vuelta": 33630
+            }
+        },
+        {
+            "nombre": "Lawrence",
+            "apellido": "Decker",
+            "edad": 50,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 190000,
+                "vuelo_ida": 23600,
+                "ancillaries_vuelta": 21000,
+                "vuelo_vuelta": 33630
+            }
+        },
+        {
+            "nombre": "Crystal",
+            "apellido": "Contreras",
+            "edad": 19,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 10000,
+                "vuelo_ida": 23600,
+                "ancillaries_vuelta": 90000,
+                "vuelo_vuelta": 33630
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 358,
+            "origen": "IPC",
+            "destino": "ZAL",
+            "hora_salida": "11:44",
+            "hora_llegada": "13:16",
+            "fecha": "08/12/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Tyler",
+            "apellido": "Hopkins",
+            "edad": 22,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 55000,
+                "vuelo_ida": 54280
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 364,
+            "origen": "LSC",
+            "destino": "SCL",
+            "hora_salida": "02:17",
+            "hora_llegada": "04:53",
+            "fecha": "03/04/23"
+        },
+        {
+            "numero_vuelo": 412,
+            "origen": "SCL",
+            "destino": "LSC",
+            "hora_salida": "09:17",
+            "hora_llegada": "11:46",
+            "fecha": "30/12/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Jimmy",
+            "apellido": "Hawkins",
+            "edad": 23,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 265000,
+                "vuelo_ida": 92040,
+                "ancillaries_vuelta": 85000,
+                "vuelo_vuelta": 87910
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 950,
+            "origen": "IPC",
+            "destino": "CPO",
+            "hora_salida": "15:12",
+            "hora_llegada": "19:54",
+            "fecha": "28/06/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Veronica",
+            "apellido": "Perkins",
+            "edad": 46,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 100000,
+                "vuelo_ida": 166380
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 117,
+            "origen": "IPC",
+            "destino": "ZOS",
+            "hora_salida": "12:30",
+            "hora_llegada": "13:26",
+            "fecha": "12/10/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Chelsea",
+            "apellido": "Hernandez",
+            "edad": 19,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 75000,
+                "vuelo_ida": 33040
+            }
+        },
+        {
+            "nombre": "Margaret",
+            "apellido": "Young",
+            "edad": 59,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 110000,
+                "vuelo_ida": 33040
+            }
+        },
+        {
+            "nombre": "Spencer",
+            "apellido": "Burke",
+            "edad": 30,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 80000,
+                "vuelo_ida": 33040
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 651,
+            "origen": "CPO",
+            "destino": "SCL",
+            "hora_salida": "06:02",
+            "hora_llegada": "08:38",
+            "fecha": "19/08/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Edgar",
+            "apellido": "Smith",
+            "edad": 20,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 50000,
+                "vuelo_ida": 92040
+            }
+        },
+        {
+            "nombre": "Cathy",
+            "apellido": "Petty",
+            "edad": 41,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 135000,
+                "vuelo_ida": 92040
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 170,
+            "origen": "PMC",
+            "destino": "BBA",
+            "hora_salida": "11:24",
+            "hora_llegada": "15:34",
+            "fecha": "15/08/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Michelle",
+            "apellido": "Roberson",
+            "edad": 54,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 85000,
+                "vuelo_ida": 147500
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 583,
+            "origen": "PUQ",
+            "destino": "CCP",
+            "hora_salida": "19:58",
+            "hora_llegada": "21:06",
+            "fecha": "04/03/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Lori",
+            "apellido": "Brewer",
+            "edad": 31,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 165000,
+                "vuelo_ida": 40120
+            }
+        },
+        {
+            "nombre": "Emily",
+            "apellido": "Bennett",
+            "edad": 20,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 100000,
+                "vuelo_ida": 40120
+            }
+        },
+        {
+            "nombre": "Shelley",
+            "apellido": "Parker",
+            "edad": 19,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 295000,
+                "vuelo_ida": 40120
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 972,
+            "origen": "PMC",
+            "destino": "IQQ",
+            "hora_salida": "06:22",
+            "hora_llegada": "08:00",
+            "fecha": "06/07/23"
+        },
+        {
+            "numero_vuelo": 878,
+            "origen": "IQQ",
+            "destino": "PMC",
+            "hora_salida": "09:48",
+            "hora_llegada": "11:11",
+            "fecha": "10/03/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Charles",
+            "apellido": "Hawkins",
+            "edad": 36,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 36000,
+                "vuelo_ida": 57820,
+                "ancillaries_vuelta": 95000,
+                "vuelo_vuelta": 48970
+            }
+        },
+        {
+            "nombre": "Mark",
+            "apellido": "Elliott",
+            "edad": 41,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 2000,
+                "vuelo_ida": 57820,
+                "ancillaries_vuelta": 32000,
+                "vuelo_vuelta": 48970
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 149,
+            "origen": "CCP",
+            "destino": "LSC",
+            "hora_salida": "07:44",
+            "hora_llegada": "11:45",
+            "fecha": "09/02/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Ruth",
+            "apellido": "Webb",
+            "edad": 31,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 235000,
+                "vuelo_ida": 142190
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 835,
+            "origen": "ARI",
+            "destino": "ZOS",
+            "hora_salida": "18:16",
+            "hora_llegada": "22:39",
+            "fecha": "02/11/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Benjamin",
+            "apellido": "Perez",
+            "edad": 43,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 50000,
+                "vuelo_ida": 155170
+            }
+        },
+        {
+            "nombre": "Jennifer",
+            "apellido": "Mason",
+            "edad": 57,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 100000,
+                "vuelo_ida": 155170
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 350,
+            "origen": "BBA",
+            "destino": "ARI",
+            "hora_salida": "08:26",
+            "hora_llegada": "11:16",
+            "fecha": "03/12/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "William",
+            "apellido": "Meyer",
+            "edad": 42,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 55000,
+                "vuelo_ida": 100300
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 856,
+            "origen": "BBA",
+            "destino": "CJC",
+            "hora_salida": "20:54",
+            "hora_llegada": "21:05",
+            "fecha": "07/01/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Jeremy",
+            "apellido": "Smith",
+            "edad": 19,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 4000,
+                "vuelo_ida": 6490
+            }
+        },
+        {
+            "nombre": "Douglas",
+            "apellido": "Hardin",
+            "edad": 36,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 52000,
+                "vuelo_ida": 6490
+            }
+        },
+        {
+            "nombre": "Janice",
+            "apellido": "Sosa",
+            "edad": 27,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 40000,
+                "vuelo_ida": 6490
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 829,
+            "origen": "ARI",
+            "destino": "ZAL",
+            "hora_salida": "05:31",
+            "hora_llegada": "06:50",
+            "fecha": "08/01/23"
+        },
+        {
+            "numero_vuelo": 542,
+            "origen": "ZAL",
+            "destino": "ARI",
+            "hora_salida": "21:07",
+            "hora_llegada": "00:57",
+            "fecha": "27/04/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Alan",
+            "apellido": "Cowan",
+            "edad": 44,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 110000,
+                "vuelo_ida": 46610,
+                "ancillaries_vuelta": 194000,
+                "vuelo_vuelta": -713900
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 542,
+            "origen": "ZAL",
+            "destino": "ARI",
+            "hora_salida": "21:07",
+            "hora_llegada": "00:57",
+            "fecha": "27/04/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Lori",
+            "apellido": "Gibson",
+            "edad": 51,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 30000,
+                "vuelo_ida": -713900
+            }
+        },
+        {
+            "nombre": "Jennifer",
+            "apellido": "Evans",
+            "edad": 29,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 280000,
+                "vuelo_ida": -713900
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 125,
+            "origen": "ZCO",
+            "destino": "BBA",
+            "hora_salida": "12:45",
+            "hora_llegada": "13:22",
+            "fecha": "11/07/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Nathan",
+            "apellido": "Bauer",
+            "edad": 19,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 230000,
+                "vuelo_ida": 21830
+            }
+        },
+        {
+            "nombre": "Brandy",
+            "apellido": "Jones",
+            "edad": 21,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 20000,
+                "vuelo_ida": 21830
+            }
+        },
+        {
+            "nombre": "Cynthia",
+            "apellido": "Johnson",
+            "edad": 33,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 96000,
+                "vuelo_ida": 21830
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 736,
+            "origen": "IPC",
+            "destino": "PUQ",
+            "hora_salida": "09:22",
+            "hora_llegada": "13:38",
+            "fecha": "12/01/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Jennifer",
+            "apellido": "Woods",
+            "edad": 57,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 115000,
+                "vuelo_ida": 151040
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 630,
+            "origen": "ZOS",
+            "destino": "ARI",
+            "hora_salida": "14:25",
+            "hora_llegada": "17:33",
+            "fecha": "12/03/23"
+        },
+        {
+            "numero_vuelo": 835,
+            "origen": "ARI",
+            "destino": "ZOS",
+            "hora_salida": "18:16",
+            "hora_llegada": "22:39",
+            "fecha": "02/11/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Michelle",
+            "apellido": "Ortiz",
+            "edad": 56,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 95000,
+                "vuelo_ida": 110920,
+                "ancillaries_vuelta": 135000,
+                "vuelo_vuelta": 155170
+            }
+        },
+        {
+            "nombre": "Richard",
+            "apellido": "Vang",
+            "edad": 35,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 15000,
+                "vuelo_ida": 110920,
+                "ancillaries_vuelta": 224000,
+                "vuelo_vuelta": 155170
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 704,
+            "origen": "ZOS",
+            "destino": "BBA",
+            "hora_salida": "06:23",
+            "hora_llegada": "09:03",
+            "fecha": "10/01/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Jaime",
+            "apellido": "Rhodes",
+            "edad": 60,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 275000,
+                "vuelo_ida": 94400
+            }
+        },
+        {
+            "nombre": "Lisa",
+            "apellido": "Gaines",
+            "edad": 41,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 6000,
+                "vuelo_ida": 94400
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 446,
+            "origen": "CJC",
+            "destino": "PUQ",
+            "hora_salida": "10:39",
+            "hora_llegada": "11:36",
+            "fecha": "14/02/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Taylor",
+            "apellido": "Johnson",
+            "edad": 27,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 69000,
+                "vuelo_ida": 33630
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 153,
+            "origen": "ZAL",
+            "destino": "IQQ",
+            "hora_salida": "14:26",
+            "hora_llegada": "18:32",
+            "fecha": "06/04/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Gerald",
+            "apellido": "Bass",
+            "edad": 50,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 157000,
+                "vuelo_ida": 145140
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 613,
+            "origen": "ZAL",
+            "destino": "PUQ",
+            "hora_salida": "21:43",
+            "hora_llegada": "00:30",
+            "fecha": "17/10/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Reginald",
+            "apellido": "Lynn",
+            "edad": 34,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 49000,
+                "vuelo_ida": -751070
+            }
+        },
+        {
+            "nombre": "Lee",
+            "apellido": "Robinson",
+            "edad": 27,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 215000,
+                "vuelo_ida": -751070
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 166,
+            "origen": "ZCO",
+            "destino": "CCP",
+            "hora_salida": "13:27",
+            "hora_llegada": "14:35",
+            "fecha": "15/08/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Geoffrey",
+            "apellido": "Jackson",
+            "edad": 57,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 160000,
+                "vuelo_ida": 40120
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 986,
+            "origen": "PMC",
+            "destino": "ZAL",
+            "hora_salida": "13:16",
+            "hora_llegada": "17:53",
+            "fecha": "02/11/24"
+        },
+        {
+            "numero_vuelo": 486,
+            "origen": "ZAL",
+            "destino": "PMC",
+            "hora_salida": "13:40",
+            "hora_llegada": "17:37",
+            "fecha": "12/11/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Tyrone",
+            "apellido": "Woods",
+            "edad": 30,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 140000,
+                "vuelo_ida": 163430,
+                "ancillaries_vuelta": 375000,
+                "vuelo_vuelta": 139830
+            }
+        },
+        {
+            "nombre": "Aaron",
+            "apellido": "Meyer",
+            "edad": 38,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 190000,
+                "vuelo_ida": 163430,
+                "ancillaries_vuelta": 75000,
+                "vuelo_vuelta": 139830
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 286,
+            "origen": "CJC",
+            "destino": "ZOS",
+            "hora_salida": "02:30",
+            "hora_llegada": "05:54",
+            "fecha": "03/01/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Christine",
+            "apellido": "James",
+            "edad": 33,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 200000,
+                "vuelo_ida": 120360
+            }
+        },
+        {
+            "nombre": "Gary",
+            "apellido": "Bates",
+            "edad": 60,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 220000,
+                "vuelo_ida": 120360
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 252,
+            "origen": "ZAL",
+            "destino": "ZCO",
+            "hora_salida": "10:57",
+            "hora_llegada": "13:37",
+            "fecha": "18/09/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Cynthia",
+            "apellido": "Ferguson",
+            "edad": 20,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 45000,
+                "vuelo_ida": 94400
+            }
+        },
+        {
+            "nombre": "Kenneth",
+            "apellido": "Gilbert",
+            "edad": 28,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 110000,
+                "vuelo_ida": 94400
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 718,
+            "origen": "PMC",
+            "destino": "ARI",
+            "hora_salida": "20:30",
+            "hora_llegada": "22:41",
+            "fecha": "05/06/23"
+        },
+        {
+            "numero_vuelo": 161,
+            "origen": "ARI",
+            "destino": "PMC",
+            "hora_salida": "13:37",
+            "hora_llegada": "17:22",
+            "fecha": "20/06/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Nicholas",
+            "apellido": "Moore",
+            "edad": 27,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 2
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 120000,
+                "vuelo_ida": 77290,
+                "ancillaries_vuelta": 20000,
+                "vuelo_vuelta": 132750
+            }
+        },
+        {
+            "nombre": "Mercedes",
+            "apellido": "Noble",
+            "edad": 47,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 45000,
+                "vuelo_ida": 77290,
+                "ancillaries_vuelta": 6000,
+                "vuelo_vuelta": 132750
+            }
+        },
+        {
+            "nombre": "Ronald",
+            "apellido": "Davis",
+            "edad": 43,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 264000,
+                "vuelo_ida": 77290,
+                "ancillaries_vuelta": 47000,
+                "vuelo_vuelta": 132750
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 279,
+            "origen": "PUQ",
+            "destino": "CPO",
+            "hora_salida": "02:17",
+            "hora_llegada": "03:10",
+            "fecha": "24/10/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Nancy",
+            "apellido": "Garcia",
+            "edad": 20,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 6000,
+                "vuelo_ida": 31270
+            }
+        },
+        {
+            "nombre": "Diana",
+            "apellido": "Grant",
+            "edad": 32,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 195000,
+                "vuelo_ida": 31270
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 646,
+            "origen": "ZOS",
+            "destino": "SCL",
+            "hora_salida": "06:40",
+            "hora_llegada": "07:09",
+            "fecha": "22/07/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Brandon",
+            "apellido": "Patel",
+            "edad": 19,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 162000,
+                "vuelo_ida": 17110
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 848,
+            "origen": "ZCO",
+            "destino": "LSC",
+            "hora_salida": "22:53",
+            "hora_llegada": "23:54",
+            "fecha": "06/04/24"
+        },
+        {
+            "numero_vuelo": 740,
+            "origen": "LSC",
+            "destino": "ZCO",
+            "hora_salida": "21:41",
+            "hora_llegada": "00:34",
+            "fecha": "06/11/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Marcia",
+            "apellido": "Stephens",
+            "edad": 22,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 189000,
+                "vuelo_ida": 35990,
+                "ancillaries_vuelta": 170000,
+                "vuelo_vuelta": -747530
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 541,
+            "origen": "SCL",
+            "destino": "ZCO",
+            "hora_salida": "11:08",
+            "hora_llegada": "12:23",
+            "fecha": "07/03/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Beth",
+            "apellido": "Mata",
+            "edad": 42,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 154000,
+                "vuelo_ida": 44250
+            }
+        },
+        {
+            "nombre": "Scott",
+            "apellido": "Thompson",
+            "edad": 53,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 60000,
+                "vuelo_ida": 44250
+            }
+        },
+        {
+            "nombre": "Cindy",
+            "apellido": "Anderson",
+            "edad": 41,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 116000,
+                "vuelo_ida": 44250
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 721,
+            "origen": "CCP",
+            "destino": "ZOS",
+            "hora_salida": "03:31",
+            "hora_llegada": "04:54",
+            "fecha": "04/11/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Jasmine",
+            "apellido": "Carlson",
+            "edad": 32,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 6000,
+                "vuelo_ida": 48970
+            }
+        },
+        {
+            "nombre": "Kenneth",
+            "apellido": "Smith",
+            "edad": 30,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 215000,
+                "vuelo_ida": 48970
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 486,
+            "origen": "ZAL",
+            "destino": "PMC",
+            "hora_salida": "13:40",
+            "hora_llegada": "17:37",
+            "fecha": "12/11/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Mark",
+            "apellido": "Johnson",
+            "edad": 51,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 70000,
+                "vuelo_ida": 139830
+            }
+        },
+        {
+            "nombre": "Anna",
+            "apellido": "Wilson",
+            "edad": 59,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 165000,
+                "vuelo_ida": 139830
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 740,
+            "origen": "LSC",
+            "destino": "ZCO",
+            "hora_salida": "21:41",
+            "hora_llegada": "00:34",
+            "fecha": "06/11/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Robert",
+            "apellido": "Martinez",
+            "edad": 28,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 85000,
+                "vuelo_ida": -747530
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 128,
+            "origen": "CPO",
+            "destino": "PMC",
+            "hora_salida": "14:36",
+            "hora_llegada": "17:10",
+            "fecha": "17/10/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Joseph",
+            "apellido": "Pearson",
+            "edad": 29,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 105000,
+                "vuelo_ida": 90860
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 436,
+            "origen": "LSC",
+            "destino": "IPC",
+            "hora_salida": "03:00",
+            "hora_llegada": "04:04",
+            "fecha": "21/10/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Jordan",
+            "apellido": "Nelson",
+            "edad": 45,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 165000,
+                "vuelo_ida": 37760
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 521,
+            "origen": "CCP",
+            "destino": "PMC",
+            "hora_salida": "10:42",
+            "hora_llegada": "14:40",
+            "fecha": "06/04/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Alicia",
+            "apellido": "Brennan",
+            "edad": 38,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 245000,
+                "vuelo_ida": 140420
+            }
+        },
+        {
+            "nombre": "Donna",
+            "apellido": "Cole",
+            "edad": 48,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 126000,
+                "vuelo_ida": 140420
+            }
+        },
+        {
+            "nombre": "Leroy",
+            "apellido": "Evans",
+            "edad": 54,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 50000,
+                "vuelo_ida": 140420
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 608,
+            "origen": "CCP",
+            "destino": "ARI",
+            "hora_salida": "08:37",
+            "hora_llegada": "09:02",
+            "fecha": "06/10/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Erica",
+            "apellido": "Frazier",
+            "edad": 36,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "WIFI",
+                            "cantidad": 2
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 100000,
+                "vuelo_ida": 14750
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 638,
+            "origen": "IQQ",
+            "destino": "SCL",
+            "hora_salida": "21:57",
+            "hora_llegada": "00:15",
+            "fecha": "15/09/23"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Devin",
+            "apellido": "Fischer",
+            "edad": 47,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 45000,
+                "vuelo_ida": -768180
+            }
+        },
+        {
+            "nombre": "Rebekah",
+            "apellido": "Baldwin",
+            "edad": 60,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "PAXS",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 2000,
+                "vuelo_ida": -768180
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 635,
+            "origen": "LSC",
+            "destino": "PUQ",
+            "hora_salida": "13:34",
+            "hora_llegada": "17:58",
+            "fecha": "18/04/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Miranda",
+            "apellido": "Poole",
+            "edad": 58,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "LNGE",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 75000,
+                "vuelo_ida": 155760
+            }
+        }
+    ]
+},
+{
+    "vuelos": [
+        {
+            "numero_vuelo": 174,
+            "origen": "BBA",
+            "destino": "CPO",
+            "hora_salida": "18:37",
+            "hora_llegada": "20:02",
+            "fecha": "18/09/23"
+        },
+        {
+            "numero_vuelo": 882,
+            "origen": "CPO",
+            "destino": "BBA",
+            "hora_salida": "18:07",
+            "hora_llegada": "22:47",
+            "fecha": "10/09/24"
+        }
+    ],
+    "pasajeros": [
+        {
+            "nombre": "Alexa",
+            "apellido": "Morris",
+            "edad": 21,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 2
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 1
+                        },
+                        {
+                            "ssr": "BGH",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "BGR",
+                            "cantidad": 1
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 85000,
+                "vuelo_ida": 50150,
+                "ancillaries_vuelta": 100000,
+                "vuelo_vuelta": 165200
+            }
+        },
+        {
+            "nombre": "Donna",
+            "apellido": "Love",
+            "edad": 54,
+            "ancillaries": [
+                {
+                    "ida": [
+                        {
+                            "ssr": "STDF",
+                            "cantidad": 1
+                        }
+                    ]
+                },
+                {
+                    "vuelta": [
+                        {
+                            "ssr": "SPML",
+                            "cantidad": 3
+                        },
+                        {
+                            "ssr": "PTCR",
+                            "cantidad": 2
+                        },
+                        {
+                            "ssr": "AVIH",
+                            "cantidad": 3
+                        }
+                    ]
+                }
+            ],
+            "balances": {
+                "ancillaries_ida": 5000,
+                "vuelo_ida": 50150,
+                "ancillaries_vuelta": 305000,
+                "vuelo_vuelta": 165200
+            }
+        }
+    ]
+}
+]
